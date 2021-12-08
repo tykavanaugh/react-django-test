@@ -1,4 +1,4 @@
-const BASE_URL = "https://cors-anywhere.herokuapp.com/https://papaplatoon-wine-api.herokuapp.com/api/wines/"
+const BASE_URL = "https://wine-project-api.herokuapp.com/wines/"
 
 const tryCatchFetch = async (url, init = null) => {
   try {
